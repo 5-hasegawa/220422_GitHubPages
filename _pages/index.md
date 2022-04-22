@@ -1,5 +1,5 @@
 ---
-title: 好きに書く
+title: "好きに書く"
 author: default
 permalink: /
 ---
