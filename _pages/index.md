@@ -26,7 +26,7 @@ permalink: /
 
 
 
-        kithubのボスは怒ると怖そうだ
+ok oru to kowa so
 
 ---
 
