@@ -26,7 +26,7 @@ permalink: /
 
 
 
-ok oru to kowa so
+ok oru to kowa so　　　　　　　　　　
 
 ---
 
