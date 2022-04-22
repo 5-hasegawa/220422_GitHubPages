@@ -1,10 +1,12 @@
 ---
-title: "ここにページのタイトル"
+title: "好きに書く"
 author: default
 permalink: /
 ---
 
 # 見出し
+
+kithubのボスは怒ると怖そうだ
 
 ここに内容を記述する！
 
