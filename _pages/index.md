@@ -10,7 +10,8 @@ permalink: /
 
 | | | | | | | | | |
 
->10本アニメ
+>[10本アニメ](https://www.youtube.com/watch?v=r0miR1I6cJw)
+>>NHK
 
 
 [Don't touch me!!](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%82%AE%E3%83%A5%E3%83%A9%E5%8A%B9%E6%9E%9C)
