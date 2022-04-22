@@ -21,7 +21,6 @@ permalink: /
 |     |   角  |      |      |      |      |      |  飛  |     |
 |  香  |  桂  |  銀  |  金  |  王  |  金  |  銀  |  桂  |  香  |
 
-|  歩  |  歩  |  歩  |  歩  |  歩  |  歩  |  歩  |  歩  |  歩  |
 
 
 [Don't touch me!!](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%82%AE%E3%83%A5%E3%83%A9%E5%8A%B9%E6%9E%9C)　　　　　　　　　　　　　　
